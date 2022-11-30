@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2 align="center">Hello there! I'm Guilherme Ribeiro!</h3>
+<h3 align="center">I'm a software developer from Brazil!</h3>
 
-<!--
-**guilhermeLRibeiroo/guilhermeLRibeiroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Learning
+- I'm currently learning design patterns and python.
 
-Here are some ideas to get you started:
+## Hobbies
+- Play videogames.
+- Solve Programming problems.
+- Read Books and manga.
+- Watch anime and TV shows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/guilhermeLRibeiroo/guilhermeLRibeiroo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeLRibeiroo&hide=java,html,tex&theme=synthwave&langs_count=3" />
+</a>
+
+<a href="https://github.com/guilhermeLRibeiroo/guilhermeLRibeiroo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermeLRibeiroo&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="guilhermeLRibeiroo's GitHub Stats" />
+</a>
+
+<a href="https://github.com/guilhermeLRibeiroo/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermeLRibeiroo&repo=DesignPatterns&theme=synthwave" />
+</a>
+<a href="https://github.com/guilhermeLRibeiroo/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermeLRibeiroo&repo=item-api&theme=synthwave" />
+</a>    
