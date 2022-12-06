@@ -2,7 +2,7 @@
 <h3 align="center">I'm a software developer from Brazil!</h3>
 
 ## Learning
-- I'm currently learning design patterns and python.
+- I'm currently learning microservices and design patterns.
 
 ## Hobbies
 - Play videogames.
